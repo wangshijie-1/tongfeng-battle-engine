@@ -1,0 +1,7 @@
+# build artifacts
+build/
+bin/
+
+# python cache
+__pycache__/
+*.pyc
